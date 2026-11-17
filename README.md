@@ -1,5 +1,4 @@
 # heart-failure-less-is-more
-# Heart Failure Mortality Prediction: Proving That Fewer Features Build Stronger Models
 
 ![Summary Visual](assets/summary_chart.png)
 
